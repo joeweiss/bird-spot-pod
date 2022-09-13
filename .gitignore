@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.autoenv
+.DS_Store
+
+audio/The Cornell Guide to Bird Sounds--United States and Canada (v2021)
+server/output.mp3
